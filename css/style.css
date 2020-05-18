@@ -58,7 +58,7 @@ section .group-tour .box-tour .box-body{padding: 20px;}
 section .group-tour .box-tour .box-body span.id-tour{color: #cccccc; text-transform: uppercase;}
 section .group-tour .box-tour .box-body h6.box-text{color: #f68a39;}
 section .group-tour .box-tour .box-body span.shipping-method{padding-top: 20px; display: block;}
-section .group-tour .box-tour:nth-child(4),.box-tour:nth-child(5), .box-tour:last-child{margin-bottom: 0 !important;}
+/* section .group-tour .box-tour:nth-child(4),.box-tour:nth-child(5), .box-tour:last-child{margin-bottom: 0 !important;} */
 
 /* style-breadcrumb */
 section .breadcrumb{padding: 10px 0;  border-bottom: 1px solid #ddd; margin-bottom: 15px;}
